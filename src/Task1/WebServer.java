@@ -1,8 +1,5 @@
 package Task1;
 
-import Task1.HttpRequest;
-import Task1.Processor;
-
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;

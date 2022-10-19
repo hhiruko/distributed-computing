@@ -1,7 +1,5 @@
 package Task1;
 
-import Task1.HttpRequest;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.Socket;
