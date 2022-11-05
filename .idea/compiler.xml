@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DistributingComputing" target="1.5" />
+      <module name="DistributingComputing" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
